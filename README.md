@@ -1,6 +1,7 @@
 # DOCKER
 
 
+
 What is docker?
 
 Docker is a software development platform which makes use of containers in a shared operating system kernel yet run in isolation. This technology enables us to launch and run operating systems in minimal time and space and is used to protect applications in multiple operating systems due to the increased efficiency and reduced size.
